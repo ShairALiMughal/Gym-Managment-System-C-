@@ -1,0 +1,56 @@
+
+  |+-----------------------------------------------------------------------------------------------+|
+  |                                                                            		            |
+  |				         INTRODUCTION                                               |
+  |                                                                                                 |
+  |+-----------------------------------------------------------------------------------------------+|
+  |                                                                                                 |
+  |	This program is developed By ****Shair ALi*** for hotel managment system                    |
+  |                                                                                                 |
+  |	by using this program a hotel can store its data..                                          |
+  |                                                                                                 |
+  |     THE MAIN FEATURES OF THIS PROGRAM ARE........                                               |
+  |                                                                                                 |
+  |                                                                                                 |
+  |                                                                                                 |
+  |                                                                                                 |
+  |                                                                                                 |
+  |*************************************************************************************************|
+  |                                                                                                 |
+  |	     1 Main Thing is That it have Two Sections of Login                                     |
+  |                                                                                                 |
+  |           ** Login AS Manager                                                                   |
+  |           ** Login AS Guest                                                                     |
+  |                                                                                                 |
+  |                                                                                                 |
+  |                                                                                                 |
+  |*************************************************************************************************|
+  |                                                                                                 |
+  |                                      Guest Section                                              |
+  |	                                                                                            |
+  |*************************************************************************************************|
+  |                                                                                                 |
+  |          ** Correct Room Number                                                                 |
+  |          ** Correct Password                                                                    |
+  |                                                                                                 |
+  |              ->> Ater Login He can see His All Information                                      |
+  |                                                                                                 |
+  |                                                                                                 |
+  |*************************************************************************************************|
+  |                                                                                                 |
+  |                                     Manager Section                                             | 
+  |	                                                                                            |
+  |*************************************************************************************************|
+  |                                                                                                 |
+  |                ** Login Through Correct Password                                                |
+  |                ** Adding New Guests                                                             |
+  |                ** Searching A particualr room                                                   |
+  |                ** updatating A room DATA                                                        |
+  |                ** Free Up Rooms                                                                 |
+  |                ** Payment Details                                                               |
+  |                ** All Remainings Payment Details                                                |
+  |                ** Display All Booked Rooms data                                                 |
+  |                                                                                                 |
+  +-------------------------------------------------------------------------------------------------+
+                                                                                                  
+
